@@ -1,4 +1,4 @@
-To change the maze size: Go to maze.py and change the GRID_ROWS, GRID_COLS (Line 7)
+To change the maze size: Go to maze.py and change the GRID_ROWS, GRID_COLS (Line 7).
 To change the used algorithm for pathfinding: Go to main.py and change algorithm = "A*" into "A*" / "BFS" / "DFS" / "GBFS" / "Dijkstra". (Line 18)
 
 A dynamic pathfinding visualizer built in Python using Pygame. Visualize popular pathfinding algorithms like:
